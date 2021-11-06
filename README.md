@@ -10,3 +10,7 @@
 ### Cambios 1-11-2021
  - Se ha limpiado de algunos archivos innecesarios de la rama dev.
 
+### Cambios 6-11-2021
+ - Instalación react-router-dom
+ - Creacion carpeta "Components"
+ - Actualización de ramas "Main" y "Dev"
