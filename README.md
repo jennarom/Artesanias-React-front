@@ -14,3 +14,10 @@
  - Instalación react-router-dom
  - Creacion carpeta "Components"
  - Actualización de ramas "Main" y "Dev"
+
+ ### Cambios 6-11-2021
+  - Se ha instalado bootstrap => $ npm install bootstrap
+  - Creación carpeta pages
+  - Creacion de carpetas, archivos (jsx) de Equipo, Inicio, Login,        noticias, registro y servivios.
+  - Se ha añadido diferentes rutas (secciones) en App.jsx
+  - Se ha añadio un componente  NavBar 
